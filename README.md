@@ -11,9 +11,14 @@ My data has 26 features and 500 rows. Although I have to deal with many features
 
 ![cor](https://user-images.githubusercontent.com/66875726/97926634-21763300-1d6c-11eb-91ff-4ba6dbc76721.png
 
-Yes I know is a little bit chaotic, many features but after I used the Univariate Feature Selection method I have to manage 15 features. 
+Yes I know is a little bit chaotic, many features but after I used the Univariate Feature Selection method and I have to manage 15 features. 
 
 ![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/97927626-04426400-1d6e-11eb-93c0-4b0e1c55659e.png)
+
+After these steps I implemented two Unsupervised techniques in order to determine the number of the classes that I could split the data. I started with a Hierarchical algorithm and below is the dendrogram of the algorithm.   
+
+
+
 
 
 
