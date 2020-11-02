@@ -5,5 +5,8 @@ The goal of this project is to develop a classification model that will be able 
 
 2.	How I would split up these clusters.
 
-In addition,I will  implement some techniques to determine highly correlated features and a dimension reduction method in order to identify patterns and divide the target column into less categories.  
+In addition,I will  implement some techniques to determine highly correlated features and a dimension reduction method in order to identify patterns and divide the target column into less categories. 
+
+My data has 26 features and 500 rows. Although I have to deal with many features the number of the rows is not so big and this is something that I will try to increase in order to develop another model and compare the results.Firstly, I used some statistics techniques to examine the distribution of the features and scatterplots aiming to find which variables are having high correlation.
+
 
