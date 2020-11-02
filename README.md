@@ -17,6 +17,10 @@ Yes I know is a little bit chaotic, many features but after I used the Univariat
 
 After these steps I implemented two Unsupervised techniques in order to determine the number of the classes that I could split the data. I started with a Hierarchical algorithm and below is the dendrogram of the algorithm.   
 
+![dend](https://user-images.githubusercontent.com/66875726/97928272-5a63d700-1d6f-11eb-8c35-62264709abce.png)
+
+
+
 
 
 
