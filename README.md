@@ -9,4 +9,9 @@ In addition,I will  implement some techniques to determine highly correlated fe
 
 My data has 26 features and 500 rows. Although I have to deal with many features the number of the rows is not so big and this is something that I will try to increase in order to develop another model and compare the results.Firstly, I used some statistics techniques to examine the distribution of the features and scatterplots aiming to find which variables are having high correlation.
 
+![cor](https://user-images.githubusercontent.com/66875726/97926634-21763300-1d6c-11eb-91ff-4ba6dbc76721.png
+
+Yes I know is a little bit chaotic, many features but after I used the Univariate Feature Selection method I have to manage 15 features. 
+
+
 
