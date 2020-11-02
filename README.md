@@ -13,5 +13,8 @@ My data has 26 features and 500 rows. Although I have to deal with many features
 
 Yes I know is a little bit chaotic, many features but after I used the Univariate Feature Selection method I have to manage 15 features. 
 
+![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/97927626-04426400-1d6e-11eb-93c0-4b0e1c55659e.png)
+
+
 
 
