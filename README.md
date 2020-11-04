@@ -36,6 +36,8 @@ The second step that it was really useful to determine the distribution of the d
 From the above scatter plots we can draw the conclusion that the categories 1-4  could classify them in one group (normal cells) and the rest 5-7 in other group (abnormal cells)
 
 
+One other technique that could be really helpful to distinguish our data target and verify the above conclusion it’s the Principal Component Analysis.
+Looking at the variance ratio of the first two component,  80% of the dataset’s variance lies along the first Principal Component and 14% lies along the second PC, We have a lot of information in the first two components So, let’s plot them.
 
 
 
