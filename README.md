@@ -27,6 +27,12 @@ The second step that it was really useful to determine the distribution of the d
 ![kyto_short_2](https://user-images.githubusercontent.com/66875726/98175055-91b4be00-1efe-11eb-8a57-440330ee6cf5.png)   
 ![cyto_long_2](https://user-images.githubusercontent.com/66875726/98175084-9c6f5300-1efe-11eb-9e84-9e054936e671.png)
 
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+|  ![kerne_shot_2](https://user-images.githubusercontent.com/66875726/98175037-88c3ec80-1efe-11eb-8ac5-055d3f625522.png)   | ![kyto_short_2](https://user-images.githubusercontent.com/66875726/98175055-91b4be00-1efe-11eb-8a57-440330ee6cf5.png)     |  ![cyto_long_2](https://user-images.githubusercontent.com/66875726/98175084-9c6f5300-1efe-11eb-9e84-9e054936e671.png)
+  |
+| git diff     | git diff       | git diff      |
+
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 ! ![kerne_shot_2](https://user-images.githubusercontent.com/66875726/98175037-88c3ec80-1efe-11eb-8ac5-055d3f625522.png)  | ![kyto_short_2](https://user-images.githubusercontent.com/66875726/98175055-91b4be00-1efe-11eb-8a57-440330ee6cf5.png)   
