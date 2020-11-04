@@ -39,6 +39,9 @@ From the above scatter plots we can draw the conclusion that the categories 1-4 
 One other technique that could be really helpful to distinguish our data target and verify the above conclusion it’s the Principal Component Analysis.
 Looking at the variance ratio of the first two component,  80% of the dataset’s variance lies along the first Principal Component and 14% lies along the second PC, We have a lot of information in the first two components So, let’s plot them.
 
+![pca](https://user-images.githubusercontent.com/66875726/98179019-81a0dc80-1f06-11eb-9105-2a140f14949c.png)
+
+
 
 
 
