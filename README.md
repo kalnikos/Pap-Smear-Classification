@@ -33,7 +33,7 @@ The second step that it was really useful to determine the distribution of the d
 | :---         |     :---:      |          ---: |
 |  ![Cyto_short_3](https://user-images.githubusercontent.com/66875726/98175102-a5602480-1efe-11eb-8c4b-34727d4d37e6.png) | ![kerne_shot_3](https://user-images.githubusercontent.com/66875726/98175129-af822300-1efe-11eb-95c3-17868aa802e4.png) | ![kyto_long_3](https://user-images.githubusercontent.com/66875726/98175149-b6109a80-1efe-11eb-8cb6-b22e0cc019da.png)
 
-
+From the above scatter plots we can draw the conclusion that the categories 1-4  could classify them in one group (normal cells) and the rest 5-7 in other group (abnormal cells)
 
 
 
