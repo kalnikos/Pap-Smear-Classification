@@ -20,7 +20,7 @@ After these steps I implemented two Unsupervised techniques in order to determin
 ![dend](https://user-images.githubusercontent.com/66875726/97928272-5a63d700-1d6f-11eb-8c35-62264709abce.png)
 
 As we can see from the dendrogram I can split the data into 2 or 3 classes, Definitely is an improvement considering the seven classes that the target group is distinguish.
-The second step that it was really useful in order to indentify the distribution of the data, were some scatter plots displayed the correlation of the features with the target group, compared divided data into 2 and 3 categories.
+The second step that it was really useful in order to indentify the distribution of the data, were some scatter plots showed the correlation of the features with the target group.
 
 
 | Kerne_Short  | Kyto_Short     | Cyto_Long |
