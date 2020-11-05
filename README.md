@@ -20,7 +20,7 @@ After these steps I implemented two Unsupervised techniques in order to determin
 ![dend](https://user-images.githubusercontent.com/66875726/97928272-5a63d700-1d6f-11eb-8c35-62264709abce.png)
 
 As we can see from the dendrogram I can split the data into 2 or 3 classes, Definitely is an improvement considering the seven classes that the target group is distinguish.
-The second step that it was really useful to determine the distribution of the data were some scatter plots that show the correlation of the feature with the target group, compared data divided into 2 and 3 categories.
+The second step that it was really useful in order to determine the distribution of the data, were some scatter plots displayed the correlation of the features with the target group, compared divided data into 2 and 3 categories.
 
 
 | Kerne_Short  | Kyto_Short     | Cyto_Long |
@@ -33,10 +33,10 @@ The second step that it was really useful to determine the distribution of the d
 | :---         |     :---:      |          ---: |
 |  ![Cyto_short_3](https://user-images.githubusercontent.com/66875726/98175102-a5602480-1efe-11eb-8c4b-34727d4d37e6.png) | ![kerne_shot_3](https://user-images.githubusercontent.com/66875726/98175129-af822300-1efe-11eb-95c3-17868aa802e4.png) | ![kyto_long_3](https://user-images.githubusercontent.com/66875726/98175149-b6109a80-1efe-11eb-8cb6-b22e0cc019da.png)
 
-From the above scatter plots we can draw the conclusion that the categories 1-4  could classify them in one group (normal cells) and the rest 5-7 in other group (abnormal cells)
+From the above scatter plots we can draw the conclusion that the categories 1-4 could classified in one group (normal cells) and the rest 5-7 in other group (abnormal cells)
 
 
-One other technique that could be really helpful to distinguish our data target and verify the above conclusion it’s the Principal Component Analysis.
+One other technique that could be really helpful to distinguish the data target and verify the above conclusion it’s the Principal Component Analysis.
 Looking at the variance ratio of the first two component,  80% of the dataset’s variance lies along the first Principal Component and 14% lies along the second PC, We have a lot of information in the first two components So, let’s plot them.
 
 ![pca](https://user-images.githubusercontent.com/66875726/98179019-81a0dc80-1f06-11eb-9105-2a140f14949c.png)
