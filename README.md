@@ -43,6 +43,9 @@ Looking at the variance ratio of the first two component,  80% of the dataset’
 
 This plot verified indeed our target distinguish normal cell 1-4 and abnormal 5-7. It will be also really interesting to plot a 3D matrix in order to identify this classification.
 
+![newplot](https://user-images.githubusercontent.com/66875726/98454976-88805700-2173-11eb-922d-d8783d77572a.png)
+
+
 
 
 
