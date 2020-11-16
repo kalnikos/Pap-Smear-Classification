@@ -1,4 +1,4 @@
-# Pap-Smear-Classification
+# Pap Smear Classification models
 
 The goal of this project is to develop a classification model that will be able to identify the cervical dysplasia in two main categories, normal and abnormal. The data set that I’m working on has a target divided into 7 categories depending on how serious the dysplasia is. In order to divide these categories I will try to implement two unsupervised methods aiming to find:
 1.	The number of the clusters. 
