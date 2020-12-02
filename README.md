@@ -55,6 +55,8 @@ The model was able to identify the third and fourth categories almost perfect bu
 
 After those steps, I started the training methods, I trained and optimized 4 supervised models with 4 different assumptions: 2 different feature selection methods and 2 different feature scaling methods, standard scaler and normalizer aiming to find out the effect that could cause the results.
 
+Compared all the different assumptions, optimized parameters and considered also the cross validation scores the results are below:  
+
 
 
 
