@@ -47,6 +47,10 @@ This plot verified indeed our target distinguish normal cell 1-4 and abnormal 5-
 
 Lastly before the prediction models, I trained a Supervised algorithm in order to examine the prediction in 7 different cells categories.  I trained a KNN model and below are the results.  
 
+![matrix](https://user-images.githubusercontent.com/66875726/100937406-a4211800-34fb-11eb-8ee0-f29f8c396d15.png)
+
+
+
 
 
 
