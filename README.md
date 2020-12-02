@@ -19,7 +19,7 @@ After these steps I implemented two Unsupervised techniques in order to determin
 
 ![dend](https://user-images.githubusercontent.com/66875726/97928272-5a63d700-1d6f-11eb-8c35-62264709abce.png)
 
-As we can see from the dendrogram I can split the data into 2 or 3 classes, Definitely is an improvement considering the seven classes that the target group is distinguish.
+As we can see from the dendrogram I can split the data into 2 or 3 classes, Definitely is an improvement considering the seven classes that the target group is divided.
 The second step that it was really useful in order to indentify the distribution of the data, were some scatter plots showed the correlation of the features with the target group.
 
 
@@ -45,10 +45,11 @@ This plot verified indeed our target distinguish normal cell 1-4 and abnormal 5-
 
 ![newplot](https://user-images.githubusercontent.com/66875726/98454976-88805700-2173-11eb-922d-d8783d77572a.png)
 
-Lastly before the prediction models, I trained a Supervised algorithm in order to examine the prediction in 7 different cells categories.  I trained a KNN model and below are the results.  
+Lastly before the prediction models, I trained a Supervised algorithm in order to examine the prediction on the 7 different cells categories.  I trained a KNN model and below are the results.  
 
 ![matrix](https://user-images.githubusercontent.com/66875726/100937406-a4211800-34fb-11eb-8ee0-f29f8c396d15.png)
 
+The model was able to identify the third and fourth categories almost perfect but it’s not so accurate with the fifth and sixth.     
 
 
 
