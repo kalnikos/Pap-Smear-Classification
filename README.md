@@ -58,15 +58,17 @@ After those steps, I started the training methods, I trained and optimized 4 sup
 Compared all the different assumptions, optimized parameters and considered also the cross validation scores the results are below:  
 
 
-| Kerne_Short  | Kyto_Short     | Cyto_Long |
-| :---         |     :---:      |          ---: |
-|  ![kerne_shot_2](https://user-images.githubusercontent.com/66875726/98175037-88c3ec80-1efe-11eb-8ac5-055d3f625522.png)   | ![kyto_short_2](https://user-images.githubusercontent.com/66875726/98175055-91b4be00-1efe-11eb-8a57-440330ee6cf5.png)     |  ![cyto_long_2](https://user-images.githubusercontent.com/66875726/98175084-9c6f5300-1efe-11eb-9e84-9e054936e671.png)
-  
+| Logistic Regression  | SVM     |
+| :---         |     :---:      |
+| ![Logistic_Regression](https://user-images.githubusercontent.com/66875726/100944816-b05fa200-3508-11eb-8a76-26d1ca92f5e2.png)   | ![SVM](https://user-images.githubusercontent.com/66875726/100944837-bfdeeb00-3508-11eb-96c8-e7585a36da64.png)
+    | 
 
 
-| Kerne_Short  | Kyto_Short     | Cyto_Long |
-| :---         |     :---:      |          ---: |
-|  ![Cyto_short_3](https://user-images.githubusercontent.com/66875726/98175102-a5602480-1efe-11eb-8c4b-34727d4d37e6.png) | ![kerne_shot_3](https://user-images.githubusercontent.com/66875726/98175129-af822300-1efe-11eb-95c3-17868aa802e4.png) | ![kyto_long_3](https://user-images.githubusercontent.com/66875726/98175149-b6109a80-1efe-11eb-8cb6-b22e0cc019da.png)
+| KNN  | Decision Tree     |
+| :---         |     :---:      |   
+| ![KNN](https://user-images.githubusercontent.com/66875726/100944826-b786b000-3508-11eb-9ddc-f93a69f54543.png)
+  | ![Random_Forest](https://user-images.githubusercontent.com/66875726/100944875-cf5e3400-3508-11eb-899e-4184c02a553b.png) | 
+
 
 
 
