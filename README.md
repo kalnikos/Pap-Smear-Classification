@@ -57,7 +57,7 @@ After those steps, I started the training methods, I trained and optimized 4 sup
 
 Compared all the different assumptions, optimized parameters and considered also the cross validation scores the results are below:  
 
-                       ## Training Set
+|                             ## Training Set |
                        
 | Logistic Regression  | SVM     |  KNN  | Decision Tree     |
 | :---                 |     :---:       | :---              |     :---:      |   
