@@ -67,9 +67,7 @@ Compared all the different assumptions, optimized parameters and considered also
 
 | KNN  | Decision Tree     | 
 | :---         |     :---:      |      
-|  ![KNN](https://user-images.githubusercontent.com/66875726/100945878-d1c18d80-350a-11eb-898d-e5e03ad4326c.png)
-   |  ![DT](https://user-images.githubusercontent.com/66875726/100945892-d7b76e80-350a-11eb-8f67-a2e5bdfdada6.png)
-    | 
+|  ![KNN](https://user-images.githubusercontent.com/66875726/100945878-d1c18d80-350a-11eb-898d-e5e03ad4326c.png) |  ![DT](https://user-images.githubusercontent.com/66875726/100945892-d7b76e80-350a-11eb-8f67-a2e5bdfdada6.png) | 
 
 
 
