@@ -67,7 +67,9 @@ Compared all the different assumptions, optimized parameters and considered also
 
 | KNN  | Decision Tree     | 
 | :---         |     :---:      |      
-|  ![KNN](https://user-images.githubusercontent.com/66875726/100945878-d1c18d80-350a-11eb-898d-e5e03ad4326c.png) |  ![DT](https://user-images.githubusercontent.com/66875726/100945892-d7b76e80-350a-11eb-8f67-a2e5bdfdada6.png) | 
+|  ![KNN](https://user-images.githubusercontent.com/66875726/100945878-d1c18d80-350a-11eb-898d-e5e03ad4326c.png) |  ![Bdt](https://user-images.githubusercontent.com/66875726/100947344-24e90f80-350e-11eb-896a-4bd67b1f4871.png) |
+
+Despite the models' performance in train, test and cross validation set the model that performed better is the optimized version of the Decision Tree classifier.
 
 
 
