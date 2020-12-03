@@ -63,6 +63,21 @@ Compared all the different assumptions, optimized parameters and considered also
 | :---                 |     :---:       | :---              |     :---:      |   
 | ![Logistic_Regression](https://user-images.githubusercontent.com/66875726/100944816-b05fa200-3508-11eb-8a76-26d1ca92f5e2.png)   | ![SVM](https://user-images.githubusercontent.com/66875726/100944837-bfdeeb00-3508-11eb-96c8-e7585a36da64.png) | ![KNN](https://user-images.githubusercontent.com/66875726/100944826-b786b000-3508-11eb-9ddc-f93a69f54543.png)| ![Random_Forest](https://user-images.githubusercontent.com/66875726/100944875-cf5e3400-3508-11eb-899e-4184c02a553b.png) | 
 
+## Test set
+
+| KNN  | Decision Tree     | 
+| :---         |     :---:      |      
+|  ![KNN](https://user-images.githubusercontent.com/66875726/100945878-d1c18d80-350a-11eb-898d-e5e03ad4326c.png)
+   |  ![DT](https://user-images.githubusercontent.com/66875726/100945892-d7b76e80-350a-11eb-8f67-a2e5bdfdada6.png)
+    | 
+
+
+
+
+
+
+
+
 
 
 
